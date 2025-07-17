@@ -1,2 +1,2 @@
-# Lunecraft-Destek botu
-LUNECRAFT DESTEK botu Made by ilkermuratkurt
+# LuneCraft-Destek-Botu
+LuneCraft Destek Botu Made by ilkermuratkurt
